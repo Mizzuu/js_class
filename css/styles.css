@@ -1,0 +1,26 @@
+* {
+    background-color: #FEF9EF;
+}
+
+h2 {
+    text-align: center;
+    color: #FF865E;
+}
+
+form {
+    margin-left: 30px;
+}
+
+label {
+    color: #FF865E;
+}
+
+form #submit {
+    margin-left: 100px;
+    background-color: #a2d2ff;
+}
+
+p {
+    margin-left: 30px;
+    background-color: #FEE440;
+}
